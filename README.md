@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="stukjeIcon.png" width="120" alt="Stukje Notes logo">
+<img src="assets/logo.png" width="120" alt="Stukje Notes logo">
 
 # Stukje Notes
 
